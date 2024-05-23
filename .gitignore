@@ -1,3 +1,4 @@
-tensorflow-1-public/*
-.python_version
+tensorflow-1-public/
+.python-version
 .DS_Store
+NLP/glove.6B.100d.txt
